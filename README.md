@@ -37,7 +37,7 @@ The project focuses on analyzing:
 
 - Policies are trained using fixed datasets without online interaction.
 - Evaluation is performed via rollout-based testing.
-- Each trained policy is evaluated over **100 rollouts**, and success rates are reported.
+- Each trained policy is evaluated over **1000 rollouts**, and success rates are reported.
 - Ablation studies are conducted on:
   - Observation space composition
   - Network capacity
